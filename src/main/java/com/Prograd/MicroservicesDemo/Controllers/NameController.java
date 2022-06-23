@@ -1,4 +1,4 @@
-package com.Prograd.MicroservicesDemo;
+package com.Prograd.MicroservicesDemo.Controllers;
 
 import com.Prograd.MicroservicesDemo.Bean.NameSender;
 import org.springframework.beans.factory.annotation.Autowired;
